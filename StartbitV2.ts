@@ -1,5 +1,6 @@
 /*
  StartbitV2 package
+ my version
 */
 //% weight=10 icon="\uf013" color=#2896ff
 namespace StartbitV2 {
