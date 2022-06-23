@@ -4,8 +4,7 @@
     "description": "My StartbitV2",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "RGBSonar": "github:Hiwonder/RGBSonar#v0.0.2"
+        "core": "*"
     },
     "files": [
         "README.md",
