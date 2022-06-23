@@ -1,7 +1,7 @@
 {
     "name": "StartbitV2",
     "version": "0.0.1",
-    "description": "Blocks for Hiwonder StartbitV2",
+    "description": "My StartbitV2",
     "license": "MIT",
     "dependencies": {
         "core": "*",
