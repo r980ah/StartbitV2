@@ -30,7 +30,7 @@
 	"StartbitV2.startbit_clearLight":"清除彩灯颜色，关闭彩灯",
 	
 	"StartbitV2.startbit_analyzeBluetoothCmd":"解析手机APP发送的蓝牙命令类型，一共有9种命令类型：行进命令，舵机调试命令(预留)，获取超声波距离命令，获取温度命令，获取声音大小等级命令，获取光线等级命令，设置彩灯颜色命令，电池电量，鸣笛命令，固件版本信息命令",
-	"StartbitV2.startbit_getArgs":"解析手机App发送的命令参数，舵机调试命令有3个参数，其余都只有一个参数",
+	"StartbitV2.startbit_getArgs":"解析手机App发送的命令参数，舵机调试命令有3个参数，其余都只有一个参数。舵机1(135-45度），舵机2（90度-30度），舵机3（85度-140度）",
 	"StartbitV2.startbit_getBluetoothCmdtype":"枚举蓝牙命令类型",
 	"StartbitV2.startbit_getRunCarType":"获取坦克车行进命令类型，有停止、前进、后退、左转、右转、慢速前进，慢速左转，慢速右转",
 
